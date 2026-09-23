@@ -1,0 +1,17 @@
+{
+  "name": "cleanco-marketplace",
+  "owner": { "name": "WA Solutions" },
+  "metadata": {
+    "description": "Agentes e skills para gestão de empresas de limpeza nos EUA (residencial e comercial)."
+  },
+  "plugins": [
+    {
+      "name": "cleanco",
+      "source": "./plugins/cleanco",
+      "description": "15 agentes especializados + skills para operações, pessoas, financeiro, crescimento e direção de uma empresa de limpeza nos EUA.",
+      "version": "1.0.0",
+      "author": { "name": "WA Solutions" },
+      "keywords": ["cleaning", "limpeza", "small-business", "usa"]
+    }
+  ]
+}
